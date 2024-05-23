@@ -1,0 +1,17 @@
+*{
+    margin:0%;
+    padding:0%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+@import "colors";
+@import "home";
+@import "header";
+@import "cart";
+@import "mediaquery";
+
+body{
+    background-color: $primary ;
+ //   color: $tertiary;
+}
